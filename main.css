@@ -1,0 +1,10 @@
+body{
+    background-color: black;
+    display: flex;
+    justify-content: center;
+}
+.text{
+    color: aqua;
+    margin-top: 200px;
+    font-size: 250px;
+}
